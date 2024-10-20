@@ -1,18 +1,10 @@
-## projeto cauculando a area de dois triangulo
+## Exercícios Propostos para Treinamento:
 
-projeto de uma serie de exercicios 
-nesse eu criei um projeto sem POO e depois fui adcionando aos poucos
-so me esqueci de faser os comites separado mas deixei umas imagens para confirmas 
-nao esquecerei das procimas veses.
+Neste exercício em particular, implementei os seguintes conceitos:
 
-exercicios proposto para treinamento 
-
-nesse exercicio em expecifio usei
-
-- classe
-- polimorfismo
-- reaproveitamento de codigo
-- delegaçao de responsabilidade
-- diagrama de classe
-
+- Classe: Criei uma estrutura que representa os triângulos.
+- Polimorfismo: Utilizei polimorfismo para permitir que diferentes tipos de triângulos fossem tratados de forma flexível.
+- Reaproveitamento de Código: Adotei práticas para evitar duplicação de código e maximizei a reutilização das funções.
+- Delegação de Responsabilidade: Organizei o código de forma a delegar responsabilidades específicas a métodos e classes apropriadas.
+- Diagrama de Classe: Elaborei um diagrama de classes para visualizar a estrutura e relacionamentos entre os elementos do projeto.
 
